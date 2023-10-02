@@ -1,5 +1,24 @@
-<Try>
-    <Commands>
-        <Command>no command, "<nombre></nombre>" just text</Command>
-    </Commands>
-</Try>
+<!DOCTYPE InstagramUsers SYSTEM "Instagram.dtd">
+<InstagramUsers>
+    <user>
+        <AccountName>fede_glez23</AccountName>
+        <email>federicogonzalez@gmail.com</email>
+        <birthday>16/04/2003</birthday>
+        <privacity>Open</privacity>
+        <PhoneNumber>+34 687955643</PhoneNumber>
+    </user>
+    <user>
+        <AccountName>martaalamoo_</AccountName>
+        <email>martaalmo2453@gmail.com</email>
+        <birthday>28/02/1998</birthday>
+        <privacity>Private</privacity>
+        <PhoneNumber>+34 695233587</PhoneNumber>
+    </user>
+    <user>
+        <AccountName>danieelalopez</AccountName>
+        <email>danielita956@gmail.com</email>
+        <birthday>13/06/05</birthday>
+        <privacity>Open</privacity>
+        <PhoneNumber>+34 625398527</PhoneNumber>
+    </user>
+</InstagramUsers>
