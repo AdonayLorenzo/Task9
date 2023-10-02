@@ -32,6 +32,7 @@ We only used this tools to create the project
 * Visual studio code
 * Instagram
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ##Getting Started
 
 You as an programmer can download this xml and take note of your acconut, just download and delete the examples, then annote your data and enjoy
@@ -49,14 +50,10 @@ How to install it:
 
 1. Get in to the project
 2. Download Instagram.xml and Instagram.dtd
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+3. Open it at Visual Studio Code
+4. Delete the examples
+5. Write your data
+6. Enjoy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,24 +61,48 @@ How to install it:
 
 ##Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Use it if you have any reason to dont remember your account and you have to search it usually
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ##Roadmap
+- [x] Multi-language Support
+    - [x] English
+    - [x] Spanish
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+Talk to me if you a full list of proposed features (and known issues) at my github account.
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+##Contributing
 
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+Special thanks to yeremay13 for helping with the code
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+##License
+
+It is free to use so, dont be shy and take it
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+##Contact
+
+Adonay Lorenzo - adolarempa@gmail.com -
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+##Acknowledgments
+
+The mentions here are Visual Studio Code and GitHub
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
