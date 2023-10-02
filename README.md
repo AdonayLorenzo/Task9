@@ -101,7 +101,7 @@ It is free to use so, dont be shy and take it
 ## Contact
 
 Adonay Lorenzo - adolarempa@gmail.com -
-
+Yeremay Araña - yeremayarana@gmail.com -
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
