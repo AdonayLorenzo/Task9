@@ -1,0 +1,7 @@
+<!ELEMENT InstagramUsers (user+)>
+<!ELEMENT user (AccountName+,email,birthday,privacity,PhoneNumber?)>
+<!ELEMENT AccountName (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT birthday (#PCDATA)>
+<!ELEMENT privacity (#PCDATA)>
+<!ELEMENT PhoneNumber (#PCDATA)>
