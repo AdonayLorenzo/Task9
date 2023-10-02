@@ -10,6 +10,7 @@
 
   <h3 align="center">Instagram users</h3>
 </div>
+
 ## About The Project
 
 There are instagram users that need to keep their accounts because they didn´t remember, this is a funny way to do an annotation, using xml and dtd to keep the account annoted its the best way to keep it for a programmer
@@ -24,7 +25,8 @@ Of course, the code its free to use and download but if you want to do a donatio
 Lets get started
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-##Built With
+
+## Built With
 
 We only used this tools to create the project
 
@@ -33,18 +35,18 @@ We only used this tools to create the project
 * Instagram
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##Getting Started
+## Getting Started
 
 You as an programmer can download this xml and take note of your acconut, just download and delete the examples, then annote your data and enjoy
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##Prerequisites
+## Prerequisites
 
 * Have Visual Studio Code
 * Have an Instagram account
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##Installation
+## Installation
 
 How to install it:
 
@@ -59,7 +61,7 @@ How to install it:
 
 
 
-##Usage
+## Usage
 
 Use it if you have any reason to dont remember your account and you have to search it usually
 
@@ -67,7 +69,7 @@ Use it if you have any reason to dont remember your account and you have to sear
 
 
 
-##Roadmap
+## Roadmap
 - [x] Multi-language Support
     - [x] English
     - [x] Spanish
@@ -75,7 +77,8 @@ Use it if you have any reason to dont remember your account and you have to sear
 Talk to me if you a full list of proposed features (and known issues) at my github account.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-##Contributing
+
+## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -86,7 +89,7 @@ Special thanks to yeremay13 for helping with the code
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-##License
+## License
 
 It is free to use so, dont be shy and take it
 
@@ -95,14 +98,14 @@ It is free to use so, dont be shy and take it
 
 
 <!-- CONTACT -->
-##Contact
+## Contact
 
 Adonay Lorenzo - adolarempa@gmail.com -
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##Acknowledgments
+## Acknowledgments
 
 The mentions here are Visual Studio Code and GitHub
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
